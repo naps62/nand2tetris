@@ -15,7 +15,7 @@ My solutions for the [From NAND to Tetris] course.
 
 ### 16-bit variants
 
-- [ ] Not16
+- [x] Not16
 - [ ] And16
 - [ ] Or16
 - [ ] Mux16
