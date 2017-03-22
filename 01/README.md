@@ -10,7 +10,7 @@ My solutions for the [From NAND to Tetris] course.
 - [x] And
 - [x] Or
 - [x] Xor
-- [ ] Mux
+- [x] Mux
 - [ ] Dmux
 
 ### 16-bit variants
