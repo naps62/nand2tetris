@@ -11,7 +11,7 @@ My solutions for the [From NAND to Tetris] course.
 - [x] Or
 - [x] Xor
 - [x] Mux
-- [x] Dmux
+- [x] DMux
 
 ### 16-bit variants
 
