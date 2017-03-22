@@ -22,7 +22,7 @@ My solutions for the [From NAND to Tetris] course.
 
 ### Multi-way variants
 
-- [ ] Or8Way
+- [x] Or8Way
 - [ ] Mux4Way16
 - [ ] Mux8Way16
 - [ ] DMux4Way
