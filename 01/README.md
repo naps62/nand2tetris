@@ -25,7 +25,7 @@ My solutions for the [From NAND to Tetris] course.
 - [x] Or8Way
 - [x] Mux4Way16
 - [x] Mux8Way16
-- [ ] DMux4Way
+- [x] DMux4Way
 - [ ] DMux8Way
 
 [From NAND to Tetris]: http://nand2tetris.org/
