@@ -30,7 +30,7 @@ My solutions for the [From NAND to Tetris] course.
 
 ## Project 2
 
-- [ ] HalfAdder
+- [x] HalfAdder
 - [ ] FullAdder
 - [ ] Add16
 - [ ] Inc16
