@@ -28,4 +28,13 @@ My solutions for the [From NAND to Tetris] course.
 - [x] DMux4Way
 - [x] DMux8Way
 
+## Project 2
+
+- [ ] HalfAdder
+- [ ] FullAdder
+- [ ] Add16
+- [ ] Inc16
+- [ ] ALU (without handling of status outputs)
+- [ ] ALU (complete)
+
 [From NAND to Tetris]: http://nand2tetris.org/
