@@ -31,8 +31,8 @@ My solutions for the [From NAND to Tetris] course.
 ## Project 2
 
 - [x] HalfAdder
-- [ ] FullAdder
-- [ ] Add16
+- [x] FullAdder
+- [x] Add16
 - [ ] Inc16
 - [ ] ALU (without handling of status outputs)
 - [ ] ALU (complete)
