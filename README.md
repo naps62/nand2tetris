@@ -35,6 +35,6 @@ My solutions for the [From NAND to Tetris] course.
 - [x] Add16
 - [x] Inc16
 - [x] ALU (without handling of status outputs)
-- [ ] ALU (complete)
+- [x] ALU (complete)
 
 [From NAND to Tetris]: http://nand2tetris.org/
